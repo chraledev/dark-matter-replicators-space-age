@@ -100,9 +100,9 @@ repltech_recipe("speed-module", "module", {internal_name = "speed-module-1", tie
 repltech_recipe("speed-module-2", "module")
 repltech_recipe("speed-module-3", "module")
 
-repltech_recipe("effectivity-module", "module", {internal_name = "effectivity-module-1", tier = 4})
-repltech_recipe("effectivity-module-2", "module")
-repltech_recipe("effectivity-module-3", "module")
+repltech_recipe("efficiency-module", "module", {internal_name = "efficiency-module-1", tier = 4})
+repltech_recipe("efficiency-module-2", "module")
+repltech_recipe("efficiency-module-3", "module")
 
 repltech_recipe("productivity-module", "module", {internal_name = "productivity-module-1", tier = 4})
 repltech_recipe("productivity-module-2", "module")
